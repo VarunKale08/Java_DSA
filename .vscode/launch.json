@@ -1,0 +1,287 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch searchingIn2d",
+            "request": "launch",
+            "mainClass": "binarySearchIn2dArray.searchingIn2d",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch rowColMatrix",
+            "request": "launch",
+            "mainClass": "binarySearchIn2dArray.rowColMatrix",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch splitArrayLargestSum",
+            "request": "launch",
+            "mainClass": "binarySearch.splitArrayLargestSum",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch countOfRotatedArray",
+            "request": "launch",
+            "mainClass": "binarySearch.countOfRotatedArray",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch rbsWithDuplicates",
+            "request": "launch",
+            "mainClass": "binarySearch.rbsWithDuplicates",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch bsInRotatedSortedArray",
+            "request": "launch",
+            "mainClass": "binarySearch.bsInRotatedSortedArray",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch searchInMountain",
+            "request": "launch",
+            "mainClass": "binarySearch.searchInMountain",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch infiniteArray",
+            "request": "launch",
+            "mainClass": "binarySearch.infiniteArray",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch floorProblem",
+            "request": "launch",
+            "mainClass": "binarySearch.floorProblem",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch ceilingProblem",
+            "request": "launch",
+            "mainClass": "binarySearch.ceilingProblem",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch OrderAgnosticBS",
+            "request": "launch",
+            "mainClass": "binarySearch.OrderAgnosticBS",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindMinNum",
+            "request": "launch",
+            "mainClass": "Linear_Search_Algorithm.FindMinNum",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchIn2DArray",
+            "request": "launch",
+            "mainClass": "Linear_Search_Algorithm.SearchIn2DArray",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchInRange",
+            "request": "launch",
+            "mainClass": "Linear_Search_Algorithm.SearchInRange",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchInStrings",
+            "request": "launch",
+            "mainClass": "Linear_Search_Algorithm.SearchInStrings",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch forEachLoop",
+            "request": "launch",
+            "mainClass": "Linear_Search_Algorithm.forEachLoop",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch linearSearch",
+            "request": "launch",
+            "mainClass": "Linear_Search_Algorithm.linearSearch",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Build_Array_from_Permutation",
+            "request": "launch",
+            "mainClass": "arrays_arrayList.Leetcode.Build_Array_from_Permutation",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayList1",
+            "request": "launch",
+            "mainClass": "arrays_arrayList.arrayList1",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrays1",
+            "request": "launch",
+            "mainClass": "arrays_arrayList.arrays1",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch colNotFixed",
+            "request": "launch",
+            "mainClass": "arrays_arrayList.colNotFixed",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch max",
+            "request": "launch",
+            "mainClass": "arrays_arrayList.max",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch multiAl",
+            "request": "launch",
+            "mainClass": "arrays_arrayList.multiAl",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch multiDim",
+            "request": "launch",
+            "mainClass": "arrays_arrayList.multiDim",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch swap",
+            "request": "launch",
+            "mainClass": "arrays_arrayList.swap",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "arrays_arrayList.test",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "binarySearch.BinarySearch",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Scope",
+            "request": "launch",
+            "mainClass": "functions.Scope",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Shadowing",
+            "request": "launch",
+            "mainClass": "functions.Shadowing",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch VarArgs",
+            "request": "launch",
+            "mainClass": "functions.VarArgs",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch addW5",
+            "request": "launch",
+            "mainClass": "functions.addW5",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch armstrongNo",
+            "request": "launch",
+            "mainClass": "functions.armstrongNo",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch changeValue",
+            "request": "launch",
+            "mainClass": "functions.changeValue",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch functions",
+            "request": "launch",
+            "mainClass": "functions.functions",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch greetings",
+            "request": "launch",
+            "mainClass": "functions.greetings",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch methodOverloading",
+            "request": "launch",
+            "mainClass": "functions.methodOverloading",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch passingExample",
+            "request": "launch",
+            "mainClass": "functions.passingExample",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch questions1",
+            "request": "launch",
+            "mainClass": "functions.questions1",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        },
+        {
+            "type": "java",
+            "name": "Launch swap(1)",
+            "request": "launch",
+            "mainClass": "functions.swap",
+            "projectName": "JAVA DSA_fd4b9a9c"
+        }
+    ]
+}
